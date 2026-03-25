@@ -2,53 +2,51 @@
 <h3 align="center">Student Developer • Machine Learning • Full-Stack • Data</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Machine+Learning+%7C+Web+Development;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+real-world+software;Machine+Learning+%7C+Full-Stack+Development;Focused+on+impact+and+performance" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AEdebug&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEdebug&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AEdebug&show_icons=true&theme=transparent&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEdebug&layout=compact&theme=transparent&hide_border=true" height="160" />
 </div>
 
 ---
 
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop" width="800" style="border-radius:12px;" />
+</p>
 
-## 🚀 About Me
+## About
 
-- 🎓 High school student pursuing **Computer Science / Software Engineering**
-- 🤖 Building **machine learning** and **AI-powered applications**
-- 🌐 Interested in **scalable web systems & real-world impact**
-- 🧠 Currently learning: **advanced ML + system design**
-- 🎯 Goal: Break into **top-tier CS programs + elite internships**
+I’m a student developer focused on building systems that go beyond coursework. My work sits at the intersection of machine learning, full-stack development, and real-world problem solving. 
 
----
-
-## 🧩 Featured Projects
-
-### 🔹 SlateFront
-> AI-powered platform with **5,000+ users**
-- Focused on **API stability, DevOps, frontend optimization**
-- Improved performance & reliability under load
-
-### 🔹 Soulify
-> 🏆 Top 5 / 70 teams (National Hackathon)
-- Mental health web app with **real-time emotion detection**
-- Built using **face recognition + ML models**
-
-### 🔹 UFC Fight Predictor
-- Machine learning model predicting fight outcomes
-- Data-driven analysis of fighter stats & performance trends
-
-### 🔹 Needs Connect
-- Platform connecting foster care systems with resources
-- Focus on **real-world social impact**
+I prioritize performance, scalability, and usability — treating every project like a product rather than an assignment.
 
 ---
 
-## ⚙️ Tech Stack
+## Selected Work
+
+### SlateFront
+AI-driven platform serving over 5,000 users. Contributed to API stability, DevOps workflows, and frontend optimization, improving performance under real usage conditions.
+
+### Soulify
+Top 5 finish in a national hackathon. Built a mental health platform integrating real-time facial emotion detection using pretrained ML models.
+
+### UFC Fight Predictor
+Developed a machine learning system analyzing fighter statistics to predict outcomes, focusing on data quality and model accuracy.
+
+### Needs Connect
+Engineered a platform designed to connect foster care systems with essential resources, emphasizing accessibility and real-world impact.
+
+---
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="800" style="border-radius:12px;" />
+</p>
+
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
@@ -56,37 +54,32 @@
 
 ---
 
-## 📊 What Makes Me Different
+## Approach
 
-- 🚀 I build **projects with real users**, not just tutorials
-- 🧠 I combine **AI + practical applications**
-- ⚡ I focus on **performance, scalability, and clean design**
-- 🎯 I treat projects like **real products**, not assignments
+- Builds systems with real users and real constraints
+- Combines machine learning with practical applications
+- Focuses on clean architecture and scalable design
+- Values execution over ideas
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
 <p align="center">
   <a href="mailto:ahmedelhanan08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AEdebug">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-elhanan-01b944307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center"><b>MK567#5341</b></p>
+<p align="center">MK567#5341</p>
 
 ---
-
-## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -94,8 +87,6 @@
 
 ---
 
-## ⚡ Final Note
-
-> I’m not just learning to code — I’m building things that matter.
-> 
-> If you're an employer or recruiter, let's connect 🚀
+<p align="center">
+  <i>Building with intent. Shipping with purpose.</i>
+</p>
